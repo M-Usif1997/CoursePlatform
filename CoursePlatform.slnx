@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="CoursePlatform.Application/CoursePlatform.Application.csproj" />
+    <Project Path="CoursePlatform.Domain/CoursePlatform.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="CoursePlatform.Infrastructure/CoursePlatform.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="CoursePlatform.Api/CoursePlatform.Api.csproj" />
+</Solution>

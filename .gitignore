@@ -1,0 +1,56 @@
+# --------------------------
+# Visual Studio
+# --------------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.env
+*.vscode/
+.idea/
+
+# --------------------------
+# Build output
+# --------------------------
+**/bin/
+**/obj/
+**/Debug*/
+**/Release*/
+
+# --------------------------
+# Logs
+# --------------------------
+**/Logs/*.txt
+*.log
+
+# --------------------------
+# NuGet
+# --------------------------
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# --------------------------
+# Publish output
+# --------------------------
+*.Publish.xml
+*.PublishProfiles/
+
+# --------------------------
+# Rider / JetBrains
+# --------------------------
+_ReSharper*/
+*.DotSettings.user
+*.dotCover
+
+# --------------------------
+# Others
+# --------------------------
+*.cache
+*.pidb
+*.opendb
+*.mdb
+*.pdb
+
